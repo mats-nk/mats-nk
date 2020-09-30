@@ -4,18 +4,26 @@ __Just a test page__
 
 
 ##Adminer
+
 ###References
+
 		__Port:__<Your IP>:9080
+
 ###About
 		Adminer (formerly phpMinAdmin) is a full-featured database management tool.	
 
 ##Blynk server
+
 ###References
+
 		__Port:__8180, 8441, 9443
+
 ###About
+
 		Blynk is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.
 
 ##Espruinohub
+
 ###References
 		__Port:__
 ###About
