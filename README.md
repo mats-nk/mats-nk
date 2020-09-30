@@ -1,42 +1,50 @@
-#IoTstack
+# IoTstack
 
 __Just a test page__
 
 
-##Adminer
+## Adminer
 
-###References
+### References
 
 		__Port:__<Your IP>:9080
 
-###About
+### About
 		Adminer (formerly phpMinAdmin) is a full-featured database management tool.	
 
-##Blynk server
+## Blynk server
 
-###References
+### References
 
 		__Port:__8180, 8441, 9443
 
-###About
+### About
 
 		Blynk is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.
 
-##Espruinohub
+## Espruinohub
 
-###References
+### References
+
 		__Port:__
+
 ###About
+
 		A BLE -> MQTT bridge for Raspberry Pi and other Embedded devices for Espruino and Puck.js
 
-##Grafana
-###References
+## Grafana
+
+### References
+
 		__Port:__<Your IP>:3000
-###About
+
+### About
+
 		Grafana has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data to power plants and beehives.
 
-##Home assistant
-###References
+## Home assistant
+
+### References
 		__Port:__<Your IP>:8123
 ###About
 		Hass.io is a home automation platform running on Python 3. It is able to track and control all devices at home and offer a platform for automating control.
