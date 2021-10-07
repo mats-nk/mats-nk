@@ -10,17 +10,16 @@ Just a test page
 
 ### About
 
-	Adminer (formerly phpMinAdmin) is a full-featured database management tool.	
+Adminer (formerly phpMinAdmin) is a full-featured database management tool.	
 
 ##  Blynk server
 
 ### References
-
 	__Port:__8180, 8441, 9443
 
 ### About
 
-	Blynk is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.
+Blynk is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.
 
 ##  Espruinohub
 
@@ -30,7 +29,7 @@ Just a test page
 
 ### About
 
-	A BLE -> MQTT bridge for Raspberry Pi and other Embedded devices for Espruino and Puck.js
+A BLE -> MQTT bridge for Raspberry Pi and other Embedded devices for Espruino and Puck.js
 
 ##  Grafana
 
@@ -40,7 +39,7 @@ Just a test page
 
 ### About
 
-	Grafana has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data to power plants and beehives.
+Grafana has become the world’s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data to power plants and beehives.
 
 ##  Home assistant
 
@@ -50,7 +49,7 @@ Just a test page
 
 ### About
 
-	Hass.io is a home automation platform running on Python 3. It is able to track and control all devices at home and offer a platform for automating control.
+Hass.io is a home automation platform running on Python 3. It is able to track and control all devices at home and offer a platform for automating control.
 
 ##  InfluxDB
 
@@ -58,7 +57,8 @@ Just a test page
 	__Port:__8086
 
 ### About
-	InfluxDB is the open source time series database
+
+InfluxDB is the open source time series database
 
 ## MariaDB
 
@@ -68,7 +68,7 @@ Just a test page
 
 ### About
 
-	MariaDB Server is one of the most popular database servers in the world. It’s made by the original developers of MySQL and guaranteed to stay open source. Notable users include Wikipedia, WordPress.com and Google.
+MariaDB Server is one of the most popular database servers in the world. It’s made by the original developers of MySQL and guaranteed to stay open source. Notable users include Wikipedia, WordPress.com and Google.
 
 ## Mosquitto
 
@@ -78,7 +78,7 @@ Just a test page
 
 ### About
 
-	Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
+Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
 
 ## MotionQye
 
@@ -88,7 +88,7 @@ Just a test page
 
 ### About
 
-	motionEye is a web-based frontend for motion (Motion is a highly configurable program that monitors video signals from many types of cameras.).
+motionEye is a web-based frontend for motion (Motion is a highly configurable program that monitors video signals from many types of cameras.).
 
 ## Next Cloud
 
@@ -98,7 +98,7 @@ Just a test page
 
 ### About
 
-	Nextcloud is a suite of client-server software for creating and using file hosting services.
+Nextcloud is a suite of client-server software for creating and using file hosting services.
 
 ## Node-RED
 
@@ -108,9 +108,9 @@ Just a test page
 
 ### About
 
-	Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 
-	It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
+It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
 
 ## Pi-hole
 
@@ -120,7 +120,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	Pi-hole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
+Pi-hole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
 
 ## Plex
 
@@ -130,7 +130,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	Plex brings together all the media that matters to you. Your personal collection will look beautiful alongside stellar streaming content.
+Plex brings together all the media that matters to you. Your personal collection will look beautiful alongside stellar streaming content.
 
 ## Portainer agent
 
@@ -140,7 +140,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	The Portainer Agent is a workaround for a Docker API limitation when using the Docker API to manage a Docker environment. The user interactions with specific resources (containers, networks, volumes and images) are limited to those available on the node targeted by the Docker API request.
+The Portainer Agent is a workaround for a Docker API limitation when using the Docker API to manage a Docker environment. The user interactions with specific resources (containers, networks, volumes and images) are limited to those available on the node targeted by the Docker API request.
 
 ## Portainer
 
@@ -149,7 +149,8 @@ __Port:__<Your IP>:8089/admin
 	__Port:__<Your IP>:9000
 
 ### About
-	Portainer simplifies container management in Docker, Swarm, Kubernetes, ACI and Edge environments.
+
+Portainer simplifies container management in Docker, Swarm, Kubernetes, ACI and Edge environments.
 
 ## PostgreSQL
 
@@ -159,7 +160,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. 
+PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. 
 
 ## Python
 
@@ -169,7 +170,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	Running python code in a docker container.
+Running python code in a docker container.
 
 ## RTL_433 Docker
 
@@ -179,7 +180,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	A stateless container for hosting RTL software defined radio (SDR) projects. The container must have a SDR dongle attached. All signal that are received and decoded will be send over the MQTT (machine-to-machine) protocol to any devices listening.
+A stateless container for hosting RTL software defined radio (SDR) projects. The container must have a SDR dongle attached. All signal that are received and decoded will be send over the MQTT (machine-to-machine) protocol to any devices listening.
 
 ## TasmoAdmin
 
@@ -191,7 +192,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	TasmoAdmin (previously SonWEB) is an administrative Website for Devices flashed with Tasmota.
+TasmoAdmin (previously SonWEB) is an administrative Website for Devices flashed with Tasmota.
 
 ## Zigbe2MQTT
 
@@ -203,7 +204,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	It bridges events and allows you to control your Zigbee devices via MQTT. In this way you can integrate your Zigbee devices with whatever smart home infrastructure you are using. 
+It bridges events and allows you to control your Zigbee devices via MQTT. In this way you can integrate your Zigbee devices with whatever smart home infrastructure you are using. 
 
 ## deCONZ
 
@@ -215,7 +216,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	The deCONZ REST plugin provides a REST-API to access Zigbee 3.0 (Z30), Zigbee Home Automation (ZHA) and Zigbee Light Link (ZLL) lights, switches and sensors from Xiaomi Aqara, IKEA TRÅDFRI, Philips Hue, innr, Samsung and many more vendors.
+The deCONZ REST plugin provides a REST-API to access Zigbee 3.0 (Z30), Zigbee Home Automation (ZHA) and Zigbee Light Link (ZLL) lights, switches and sensors from Xiaomi Aqara, IKEA TRÅDFRI, Philips Hue, innr, Samsung and many more vendors.
 
 ## DIY hue
 
@@ -225,9 +226,9 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	diyHue brings together multiple Smarthome Solutions into one Ecosystem.
+diyHue brings together multiple Smarthome Solutions into one Ecosystem.
 
-	Combine ready made Bulbs, Lights, Sensors and Devices with your own DIY Lights made from cheap ESP8266 Microcontroller (Wemos D1 mini, Node MCU etc.) and some affordable LEDS (e.g. WS2812b Strips).
+Combine ready made Bulbs, Lights, Sensors and Devices with your own DIY Lights made from cheap ESP8266 Microcontroller (Wemos D1 mini, Node MCU etc.) and some affordable LEDS (e.g. WS2812b Strips).
 
 ## Openhab
 
@@ -237,7 +238,7 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	A vendor and technology agnostic open source automation software for your home.
+A vendor and technology agnostic open source automation software for your home.
 
 ## x2go
 
@@ -247,4 +248,4 @@ __Port:__<Your IP>:8089/admin
 
 ### About
 
-	x2go is an "alternative" to using VNC for a remote connection
+x2go is an "alternative" to using VNC for a remote connection
